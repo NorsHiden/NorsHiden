@@ -5,4 +5,4 @@
 - 💬 Feel free to ask me about Computer Science.
 - ⚡ My 42Network Profile:
 
-![](https://badge42.herokuapp.com/api/stats/nelidris?privacyName=true)
+![](https://badge1337.norshiden.repl.co/badge/nelidris)
