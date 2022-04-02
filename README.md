@@ -1,9 +1,9 @@
 
 ### Hey 👋 I'm Nors
 
-I'm currently student at **1337school** (42Network).
+I'm currently a student at **1337school** (42Network).
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+## <img width="45" alt="about" src="https://icons-for-free.com/iconfiles/png/512/about-131964752256876096.png"> About Me
 
 <img align="right" width="300" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" />
 
