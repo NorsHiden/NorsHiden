@@ -3,7 +3,7 @@
 
 I'm currently a student at **1337school** (42Network).
 
-## <img width="45" alt="about" src="https://banner2.cleanpng.com/20180802/oja/kisspng-pixel-art-drawing-pixelation-dog-pixilart-%D0%A9%D0%B5%D0%BD%D0%BE%D0%BA-by-computer-school-5b62b07a925456.5254540415331943625994.jpg"> About Me
+## <img width="45" alt="about" src="http://31.media.tumblr.com/763c3316020958083351d79146df4d0c/tumblr_mr3i30XBH61se2vfqo1_500.gif"> About Me
 
 <img align="right" width="300" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" />
 
