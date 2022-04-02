@@ -3,7 +3,7 @@
 
 I'm currently a student at **1337school** (42Network).
 
-## <img width="45" alt="about" src="https://icons-for-free.com/iconfiles/png/512/about-131964752256876096.png"> About Me
+## <img width="45" alt="about" src="https://i.gifer.com/Xqg8.gif"> About Me
 
 <img align="right" width="300" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" />
 
