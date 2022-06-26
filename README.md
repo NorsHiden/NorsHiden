@@ -3,7 +3,7 @@
 
 I'm currently a student at **1337school** (42Network).
 
-## <img width="45" height="45" alt="about" src="http://31.media.tumblr.com/763c3316020958083351d79146df4d0c/tumblr_mr3i30XBH61se2vfqo1_500.gif"> About Me
+## <img width="45" height="45" alt="about" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> About Me
 
 <img align="right" width="300" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" />
 
@@ -32,11 +32,11 @@ struct Nors {
 
 ## **My GitHub Stats**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/NorsHiden">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norshiden&theme=onedark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/NorsHiden">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=norshiden&show_icons=true&theme=onedark&line_height=27" alt="Github stats"/>
 </a>
 
