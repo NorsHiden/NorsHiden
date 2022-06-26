@@ -5,7 +5,7 @@ I'm currently a student at **1337school** (42Network).
 
 ## <img width="45" height="45" alt="about" src="https://i.gifer.com/origin/6e/6e5867851ee89a5a3f28beeaa49e01ae_w200.gif"> About Me
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ```c
 struct Nors {
