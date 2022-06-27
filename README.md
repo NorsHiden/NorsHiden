@@ -29,6 +29,9 @@ struct Nors {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+## **My 1337FIL Profile (42Network)**
+
+[![nelidris's 42 stats](https://badge42.vercel.app/api/v2/cl4wty3g9005009jjxydkxwgo/stats?cursusId=21&coalitionId=80)](https://github.com/NorsHiden)
 
 ## **My GitHub Stats**
 
@@ -40,7 +43,4 @@ struct Nors {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=norshiden&show_icons=true&theme=onedark&line_height=27" alt="Github stats"/>
 </a>
 
-## **My 1337FIL Profile (42Network)**
-
-[![nelidris's 42 stats](https://badge42.vercel.app/api/v2/cl4wty3g9005009jjxydkxwgo/stats?cursusId=21&coalitionId=80)](https://github.com/NorsHiden)
 
