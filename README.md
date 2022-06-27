@@ -40,3 +40,7 @@ struct Nors {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=norshiden&show_icons=true&theme=onedark&line_height=27" alt="Github stats"/>
 </a>
 
+## **My 1337FIL Profile (42Network)**
+
+[![nelidris's 42 stats](https://badge42.vercel.app/api/v2/cl4wty3g9005009jjxydkxwgo/stats?cursusId=21&coalitionId=80)](https://github.com/JaeSeoKim/badge42)
+
