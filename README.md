@@ -31,7 +31,7 @@ struct Nors {
 
 ## **My 1337FIL Profile (42Network)**
 
-[![nelidris's 42 stats](https://badge42.vercel.app/api/v2/cl4wty3g9005009jjxydkxwgo/stats?cursusId=21&coalitionId=80)](https://github.com/NorsHiden)
+[![nelidris's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nelidris)](https://github.com/NorsHiden)
 
 ## **My GitHub Stats**
 
