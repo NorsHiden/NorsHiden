@@ -11,7 +11,7 @@ I'm currently a student at **1337school** (42Network).
 struct Nors {
 	char *fullname = "Nasroallah El Idrissi";
 	int age = 22;
-	char *languages[5] = {"C", "C++", "Python", "JavaScript", 0};
+	char *languages[6] = {"Shell", "C", "C++", "Python", "JavaScript", 0};
 	char *fun_fact = "it is only a 1 or a 0";
 };
 ```
