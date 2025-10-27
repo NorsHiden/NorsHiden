@@ -1,8 +1,12 @@
 <h2 align="center">👋 Hey, I'm <strong>Nors</strong></h2>
 
 <p align="center">
-  💻 <strong>Software Developer</strong> at <strong>1337 School</strong> (42 Network)  
+  💻 <strong>Software Developer</strong>
+</p>
+<p align="center">
   🧩 Passionate about <strong>systems programming</strong>, <strong>backend development</strong>, and <strong>reverse engineering</strong>  
+</p>
+<p align="center">
   ⚡ Driven by curiosity — and sometimes by caffeine.
 </p>
 
