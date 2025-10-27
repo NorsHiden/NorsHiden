@@ -7,7 +7,7 @@
   🧩 Passionate about <strong>systems programming</strong>, <strong>backend development</strong>, and <strong>reverse engineering</strong>  
 </p>
 <p align="center">
-  ⚡ Driven by curiosity — and sometimes by caffeine.
+  ⚡ Fueled by caffeine, powered by curiosity, rescued by Ctrl+Z
 </p>
 
 ---
